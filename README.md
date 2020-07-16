@@ -5,7 +5,8 @@
  * 
  * Project : Password Validator
  * Date    : Jul 16, 2020
- * 
+ * version : 1.0
+ *
  */
 
 Description: This is a simple 100% java project about validating a password with GUI
