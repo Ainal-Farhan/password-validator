@@ -11,9 +11,8 @@
 
 Description: This is a simple 100% java project about validating a password with GUI
 
-Execution Requirement
+Execution Environment
 1. Java 12
-2. Eclipse (optional)
 
 Execution Guide
-1. Run this in eclipse.
+1. Run in any java platform.
